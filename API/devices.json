@@ -14,7 +14,10 @@
             "codename_alt": "marble/marblein",
             "vendor": "Xiaomi",
             "model": "Poco F5/Redmi Note 12 Turbo",
-            "maintainer_name": "beingashwani",
+            "maintainer_name": "Ashwani",
+            "github_username" : "beingashwani",
+            "image_url" : "https://i0.wp.com/mstore.ie/wp-content/uploads/2023/07/POCO-F5-Black.png?fit=1600%2C1600&ssl=1",
+            "donate_link" : "https://t.me/ashwani_hub/899",
             "frame": null,
             "active": true
         },
